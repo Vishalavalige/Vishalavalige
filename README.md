@@ -1,36 +1,42 @@
-# 👋 Hi, I'm Vishala
+### 👋 Hi, I'm Vishala Valige
 
-🚀 Embedded Systems Intern | Electronics & Communication Engineer  
-🔧 Focused on STM32, ESP32, and sensor‑based projects  
-🎯 Goal: Building smart dashboards & IoT solutions  
-
----
-
-## 📌 Featured Projects
-### 🚗 EV ADAS Dashboard
-A professional embedded dashboard for Electric Vehicles with ultrasonic sensors, STM32 timers, and UART communication.  
-[🔗 View Repository](https://github.com/Vishalavalige/EV-ADAS-Dashboard)
-
-### 🌦️ Weather Station ESP32
-An IoT‑based weather monitoring station using ESP32, sensors, and cloud logging.  
-[🔗 View Repository](https://github.com/Vishalavalige/Weather-Station-ESP32)
+🚀 Embedded Systems Intern | Electronics & Communication Engineer
+🔧 Focused on STM32, ESP32, and sensor-based embedded projects
+🎯 Goal: Building smart dashboards, IoT solutions, and intelligent battery systems
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** C, Embedded C  
-- **Microcontrollers:** STM32, ESP32  
-- **Tools:** STM32CubeIDE, PICSimLab, Wokwi  
-- **Protocols:** UART, I2C, SPI  
+### 📌 Featured Projects
+
+🔋 **[Battery Intelligence System](https://github.com/Vishalavalige/battery-intelligence-system)**
+A 4-cell adaptive battery intelligence system — real-time monitoring and management, simulated end-to-end in Wokwi.
+🔗 [Live Simulation](https://wokwi.com/projects/471041354403229697)
+
+🚗 **[EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard)**
+A professional embedded dashboard for Electric Vehicles with ultrasonic sensors, STM32 timers, and UART communication.
+
+🌦️ **[Weather Station ESP32](https://github.com/Vishalavalige/Weather-Station-ESP32)**
+An IoT-based weather monitoring station using ESP32, sensors, and cloud logging.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalavalige&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalavalige&layout=compact&theme=tokyonight)
+### 🛠️ Tech Stack
+
+- **Languages:** C, Embedded C
+- **Microcontrollers:** STM32, ESP32
+- **Tools:** STM32CubeIDE, PICSimLab, Wokwi
+- **Protocols:** UART, I2C, SPI
 
 ---
 
-## 🌐 Connect with Me
-- LinkedIn: [linkedin.com/in/vishala](https://linkedin.com/in/vishala)  
-- Email: vishalavalige@gmail.com
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalavalige&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalavalige&layout=compact)
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 LinkedIn: [linkedin.com/in/valige-vishala-6b49102a2](https://www.linkedin.com/in/valige-vishala-6b49102a2)
+- 📧 Email: vishalavalige@gmail.com
