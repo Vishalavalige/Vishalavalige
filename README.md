@@ -12,12 +12,6 @@
 A 4-cell adaptive battery intelligence system — real-time monitoring and management, simulated end-to-end in Wokwi.
 🔗 [Live Simulation](https://wokwi.com/projects/471041354403229697)
 
-🚗 **[EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard)**
-A professional embedded dashboard for Electric Vehicles with ultrasonic sensors, STM32 timers, and UART communication.
-
-🌦️ **[Weather Station ESP32](https://github.com/Vishalavalige/Weather-Station-ESP32)**
-An IoT-based weather monitoring station using ESP32, sensors, and cloud logging.
-
 ---
 
 ### 🛠️ Tech Stack
