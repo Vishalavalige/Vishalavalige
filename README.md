@@ -12,7 +12,7 @@
 A 4-cell adaptive battery intelligence system — real-time monitoring and management, simulated end-to-end in Wokwi.
 🔗 [Live Simulation](https://wokwi.com/projects/471041354403229697)
 
-🚗 [EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard) — Real-time EV dashboard with ADAS features (collision alert, blind-spot detection) on STM32F103, simulated via PicSimLab with a live animated Python cockpit UI.
+🚗 [EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard) — Real-time EV dashboard with ADAS features (collision alert, blind-spot detection) on STM32F103, simulated via PicSimLab with a live animated Python cockpit UI. 🎥 [Demo Video](https://youtu.be/3P8i4TWapYc?si=nhLKrWHRZDze6fuQ)
 
 ---
 
