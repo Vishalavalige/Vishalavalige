@@ -25,7 +25,7 @@ pressure, rainfall, and air quality with local LCD display and cloud dashboard i
 
 - **Languages:** C, Embedded C
 - **Microcontrollers:** STM32, ESP32
-- **Tools:** STM32CubeIDE, PICSimLab, Wokwi
+- **Tools:** STM32CubeIDE, PICSimLab, Wokwi, Ardiuno
 - **Protocols:** UART, I2C, SPI
 
 ---
