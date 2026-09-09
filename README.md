@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Vishala Valige
 
-🚀 Embedded Systems Intern | Electronics & Communication Engineer
-🔧 Focused on STM32, ESP32, sensor-based embedded projects, and data analytics
+🚀 Embedded Systems Intern | Electronics & Communication Engineer                                            
+🔧 Focused on STM32, ESP32, sensor-based embedded projects, and data analytics                                                
 🎯 Goal: Building smart dashboards, IoT solutions, and intelligent battery systems
 
 ---
