@@ -1,37 +1,37 @@
-### 👋 Hi, I'm Vishala Valige
+### Hi, I'm Vishala Valige 👋
 
-🚀 Embedded Systems Intern | Electronics & Communication Engineer                                            
-🔧 Focused on STM32, ESP32, sensor-based embedded projects, and data analytics                                                
-🎯 Goal: Building smart dashboards, IoT solutions, and intelligent battery systems
+Final-year Electronics & Communication Engineering student focused on embedded systems and IoT, with hands-on experience in STM32, ESP32, and sensor-based projects, alongside growing skills in data analytics.
 
 ---
 
 ### 📌 Featured Projects
 
-🔋 **[Battery Intelligence System](https://github.com/Vishalavalige/battery-intelligence-system)**
-A 4-cell adaptive battery intelligence system — real-time monitoring and management, simulated end-to-end in Wokwi.
-🔗 [Live Simulation](https://wokwi.com/projects/471041354403229697)
+**[EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard)**
+Real-time EV dashboard with ADAS features (collision alert, blind-spot detection) on STM32F103, simulated via PicSimLab with a live Python cockpit UI. [Demo Video](https://youtu.be/3P8i4TWapYc?si=nhLKrWHRZDze6fuQ)
 
-🚗 **[EV ADAS Dashboard](https://github.com/Vishalavalige/EV-ADAS-Dashboard)**
-Real-time EV dashboard with ADAS features (collision alert, blind-spot detection) on STM32F103, simulated via PicSimLab with a live animated Python cockpit UI.
-🎥 [Demo Video](https://youtu.be/3P8i4TWapYc?si=nhLKrWHRZDze6fuQ)
+**[Battery Intelligence System](https://github.com/Vishalavalige/battery-intelligence-system)**
+A 4-cell adaptive battery intelligence system with real-time monitoring and management, simulated end-to-end in Wokwi. [Live Simulation](https://wokwi.com/projects/471041354403229697)
 
-🌦️ **[IoT-Based Weather Monitoring System (ESP32)](https://github.com/Vishalavalige/weather-monitoring-esp32)**
-Real-time environmental monitoring station built on ESP32 — tracks temperature, humidity, pressure, rainfall, and air quality with local LCD display and cloud dashboard integration.
-`ESP32` `IoT` `Embedded Systems` `Environmental Monitoring`
+**[IoT-Based Weather Monitoring System (ESP32)](https://github.com/Vishalavalige/weather-monitoring-esp32)**
+Real-time environmental monitoring station tracking temperature, humidity, pressure, rainfall, and air quality, with local LCD display and cloud dashboard integration.
 
-🎙️ **[Audio Signal Processing Assistant Agent](https://github.com/Vishalavalige/Audio-Signal-Processing-Assistant-Agent)**
-A lightweight Python agent that loads audio, extracts acoustic features (MFCC, spectral centroid, RMS energy) with librosa, and classifies sound events — glass breaking, dog barking, background hum — by urgency level using rule-based logic, no model training required.
+<details>
+<summary>More projects</summary>
 
-🌾 **[Seasonal Agriculture Performance Analysis](https://github.com/Vishalavalige/seasonal-agriculture-performance-analysis)**
+**[Seasonal Agriculture Performance Analysis](https://github.com/Vishalavalige/seasonal-agriculture-performance-analysis)**
 VOIS AICTE major project analyzing 4,000 farm records across 8 states and 3 growing seasons to uncover how yield and profitability shift with seasonal conditions, using EDA, ANOVA testing, and visualization in Python.
 
-🚙 **[Car Market Trends Analysis](https://github.com/Vishalavalige/car-market-trends-analysis)**
-Data analysis of used-car market trends using CarDekho data, exploring pricing patterns and market dynamics with data cleaning and visualization in Google Colab.
+**[Audio Signal Processing Assistant Agent](https://github.com/Vishalavalige/Audio-Signal-Processing-Assistant-Agent)**
+A lightweight Python agent that extracts acoustic features (MFCC, spectral centroid, RMS energy) with librosa and classifies sound events by urgency level using rule-based logic.
+
+**[Car Market Trends Analysis](https://github.com/Vishalavalige/car-market-trends-analysis)**
+Analysis of used-car market trends using CarDekho data, exploring pricing patterns with data cleaning and visualization in Google Colab.
+
+</details>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** C, Embedded C, Python
 - **Microcontrollers:** STM32, ESP32
@@ -41,14 +41,14 @@ Data analysis of used-car market trends using CarDekho data, exploring pricing p
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalavalige&show_icons=true&theme=default)](https://github.com/Vishalavalige)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalavalige&layout=compact)](https://github.com/Vishalavalige)
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/valige-vishala-6b49102a2](https://www.linkedin.com/in/valige-vishala-6b49102a2)
-- 📧 Email: vishalavalige@gmail.com
+- LinkedIn: [linkedin.com/in/valige-vishala-6b49102a2](https://www.linkedin.com/in/valige-vishala-6b49102a2)
+- Email: vishalavalige@gmail.com
